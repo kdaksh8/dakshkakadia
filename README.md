@@ -39,9 +39,9 @@ I'm a passionate engineer who works close to the metal — building robust, low-
 
 ## 🤝 Let's Connect
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dakshkakadia@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshkakadia)
-[![GitHub](https://img.shields.io/badge/GitHub-dakshkakadia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshkakadia)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dakshkakadia@gmail.com)
+[![linked-in](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/dakshkakadia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshkakadia)
 
 - 🧪 Check out my latest experiments and mini-projects here on GitHub!
 
