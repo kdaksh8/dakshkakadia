@@ -18,21 +18,21 @@ I'm a passionate engineer who works close to the metal — building robust, low-
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 🔹 Platforms & Frameworks  
-![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)  
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-27AE60?style=for-the-badge&logo=freertos&logoColor=white)  
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-27AE60?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### 🔹 Connectivity & Protocols  
-![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)  
-![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)  
+![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)  
-![PPPoS](https://img.shields.io/badge/PPP_over_Serial-007396?style=for-the-badge)  
-![WebSockets](https://img.shields.io/badge/WebSockets-2C5282?style=for-the-badge&logo=websockets&logoColor=white)  
-![OCPP](https://img.shields.io/badge/OCPP_1.6J-00A8E8?style=for-the-badge)
+![PPPoS](https://img.shields.io/badge/PPP_over_Serial-007396?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-2C5282?style=for-the-badge&logo=websockets&logoColor=white)
+![OCPP](https://img.shields.io/badge/OCPP_1.6J-00A8E8?style=for-the-badge)  
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)  
 ---
 
