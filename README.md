@@ -37,19 +37,12 @@ I'm a passionate engineer who works close to the metal — building robust, low-
 ![BLE](https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)  
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshkakadia&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshkakadia&layout=compact&theme=radical" width="47%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-- 📬 Email: daksh.kakadia@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/dakshkakadia)  
+[![Email](https://img.shields.io/badge/Email-dakshkakadia@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshkakadia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh_Kakadia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshkakadia)
+[![GitHub](https://img.shields.io/badge/GitHub-dakshkakadia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshkakadia)
+
 - 🧪 Check out my latest experiments and mini-projects here on GitHub!
 
 ---
