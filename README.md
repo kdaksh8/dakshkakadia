@@ -42,6 +42,8 @@ I'm a passionate engineer who works close to the metal — building robust, low-
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dakshkakadia@gmail.com)
 [![linked-in](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/dakshkakadia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dakshkakadia)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/dakshkakadia/dakshkakadia/raw/main/Daksh_Kakadia_Resume.pdf)
+
 
 - 🧪 Check out my latest experiments and mini-projects here on GitHub!
 
